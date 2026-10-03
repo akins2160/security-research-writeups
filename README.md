@@ -1,5 +1,44 @@
 # Security-research-writeups
 ### This contains writeups about my past audit findings, while these does not contain all as i keep updating them, thanks for checking!
+I am a security researcher specializing in smart contract auditing, with a proven track record of identifying high-impact vulnerabilities in competitive audit environments. My approach combines deep technical expertise in blockchain security with an AI‑assisted audit agent that enhances detection capabilities, enabling me to deliver thorough and efficient audits.
+
+### Security Experience & Achievements
+
+1. Folks Smart Contract Library Audit (Immunefi)
+
+    Rank: 5th place
+    
+    Reward: $1,308
+    
+    Details: Competed in a public audit competition for the Folks Smart Contract Library, a curated collection of reusable smart contracts on the Algorand blockchain. Leveraged my proprietary   AI agent to systematically analyze the codebase, contributing to the discovery of valid vulnerabilities.
+    
+    Leaderboard: https://immunefi.com/audit-competition/folks-sc-library/leaderboard/#top
+
+2. Reserve Governor Audit (Cantina)
+
+    Rank: 3rd place
+    
+    Reward: $371
+    
+    Details: Participated in a competitive audit of the Reserve Governor protocol on Cantina. My AI‑assisted methodology played a key role in identifying critical issues, securing a podium finish.
+    
+    Leaderboard:  https://cantina.xyz/code/980a5976-9a7d-4014-b2e1-c248b4c6fa44/overview/leaderboard
+
+### My Audit Approach
+
+My audit process is built on a hybrid methodology that combines:
+
+Manual Security Review: In‑depth analysis of business logic, access controls, and economic assumptions.
+
+AI‑Assisted Vulnerability Detection: A custom‑built AI agent that augments traditional static analysis with advanced pattern recognition, enabling me to surface subtle vulnerabilities more efficiently.
+
+Proven Results: This integrated approach has consistently delivered competitive results, as demonstrated by my top‑5 placements in high‑stakes audit competitions.
+
+### Why Work With Me
+
+I am committed to delivering valuable, actionable audits that help secure your protocol. By combining my security skills with my AI agent, I provide a comprehensive assessment that goes beyond standard tooling offering clear vulnerability classifications, evidence snippets, impact explanations, and remediation guidance. I look forward to contributing to the security of your projec
+
+
 # Reserve Governor Audit Findings | Cantina Competition
 
 **Competition:** Cantina - Reserve Governor  
